@@ -1,0 +1,11 @@
+<!--
+  Camada monocromática do ícone adaptativo, usada pelo tema dinâmico do Android 13+.
+  Mesmo desenho do foreground, em cor sólida: o sistema aplica a paleta dele por cima.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF" android:pathData="M34,58 L48,72 L78,38 L70,30 L48,55 L42,49 Z" />
+</vector>
